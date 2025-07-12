@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cawina-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Cawina-exe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cawina-exe&radius=15&theme=react&area=true&order=5" height="50" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cawina-exe&radius=15&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -72,13 +72,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cawina-exe.Cawina-exe&"  />
 </div>
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cawina-exe/Cawina-exe/output/snake.svg" alt="Snake animation" />
 
 ###
