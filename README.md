@@ -1,26 +1,28 @@
-<h2 align="left">Hi 👋! My name is Carolina and I'm from Portugal.<br>|Game Dev Student|</h2>
+<h2 align="left">Hi there👋!</h2>
+
+###
+
+<p align="left">My name is Carolina and I'm a Game Development Student starting my 2nd year at ETIC_Algarve.</p>
+
+###
+
+<h2 align="left">About me:</h2>
+
+###
+
+<p align="left">I'm a person with a strong passion for creating engaging and meaningful interactive experiences. Currently pursuing a Bachelor of Science in Game Development, I focus on blending creative  mechanics, tools, storytelling and visuals into every project I build.</p>
+
+###
+
+<h2 align="left">What I do:</h2>
+
+###
+
+<p align="left">Game Design & Development (Unity / C#)<br><br> Gameplay Systems & Level Design<br><br> UI/UX Design<br><br> Interactive Prototypes & Personal Projects<br><br> I'm always learning and exploring new tools and techniques to improve my design and development skills. I'm especially interested in player feedback loops, time-management mechanics, and immersive environments.<br><br>🚀 I love collaborating on projects, solving problems creatively, and sharing knowledge with the community. Always open to remote work, side projects, and new opportunities!</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cawina-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Cawina-exe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cawina-exe&radius=15&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJyYmdkczN3dm5kOHk1bnhybHBzejlwZmo2YXZzYWJhd2JsYTE5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/etOX3h7ApZuDe7Fc5w/giphy.gif"  />
-</div>
-
-###
-
-<h2 align="left">Using:</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="39" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="39" alt="unity logo"  />
@@ -36,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
@@ -50,20 +52,25 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cawina-exe/Cawina-exe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cawina-exe/Cawina-exe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cawina-exe/Cawina-exe/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cawina-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Cawina-exe&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cawina-exe&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJyYmdkczN3dm5kOHk1bnhybHBzejlwZmo2YXZzYWJhd2JsYTE5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/etOX3h7ApZuDe7Fc5w/giphy.gif"  />
+</div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carolina-sousa-cawina/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_cawina_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
