@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Game Development & Design (Unity / C#)<br><br> Gameplay Systems & Level Design<br><br> UI/UX Design<br><br> Interactive Prototypes & Personal Projects<br><br> I'm always learning and exploring new tools and techniques to improve my design and development skills. I'm especially interested in player feedback loops, time-management mechanics, and immersive environments.<br><br>🚀 I love collaborating on projects, solving problems creatively, and sharing knowledge with the community. Always open to remote work, side projects, and new opportunities!</p>
+<p align="left">Game Development & Design (Unity / C# & Unreal / C++)<br><br> Gameplay Systems & Level Design<br><br> UI/UX Design<br><br> Interactive Prototypes & Personal Projects<br><br> I'm always learning and exploring new tools and techniques to improve my design and development skills. I'm especially interested in player feedback loops, time-management mechanics, and immersive environments.<br><br>🚀 I love collaborating on projects, solving problems creatively, and sharing knowledge with the community. Always open to remote work, side projects, and new opportunities!</p>
 
 ###
 
