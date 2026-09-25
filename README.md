@@ -64,16 +64,17 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/carolina-sousa-cawina/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cawina-exe.Cawina-exe&"  />
-</div>
-
-###
+  <div align="center">                                                                                                                                                                                                                                                         
+      <a href="https://cawina-exe.github.io/vcard-personal-portfolio/" target="_blank">                                                                                                                                                                                          
+        <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />                                                                                       
+      </a>                                                                                                                                                                                                                                                                       
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <a href="https://drive.google.com/file/d/1CHzcvAneexFLeczZB2f2BVm8B3N_eAmI/view?usp=sharing" target="_blank">                                                                                                                                                              
+        <img src="https://img.shields.io/static/v1?message=Resume%20/%20CV&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv logo"  />                                                                                   
+      </a>                                                                                                                                                                                                                                                                       
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <a href="https://www.linkedin.com/in/carolina-sousa-cawina/" target="_blank">                                                                                                                                                                                              
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />                                                                                       
+      </a>                                                                                                                                                                                                                                                                       
+    </div>                                                                                                                                                                                                                                                                       
+                
