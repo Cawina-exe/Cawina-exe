@@ -21,33 +21,36 @@
 <p align="left">Game Development & Design (Unity / C# & Unreal / C++)<br><br> Gameplay Systems & Level Design<br><br> UI/UX Design<br><br> Interactive Prototypes & Personal Projects<br><br> I'm always learning and exploring new tools and techniques to improve my design and development skills. I'm especially interested in player feedback loops, time-management mechanics, and immersive environments.<br><br>🚀 I love collaborating on projects, solving problems creatively, and sharing knowledge with the community. Always open to remote work, side projects, and new opportunities!</p>
 
 ###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="39" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="39" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="39" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
+<div align="center">                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="39" alt="csharp logo"  />                                                                                                                                                 
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="39" alt="unity logo"  />                                                                                                                                                    
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="39" alt="unrealengine logo"  />                                                                                                                               
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="39" alt="visualstudio logo"  />                                                                                                                                  
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />                                                                                                                                                 
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />                                                                                                                                                    
+    </div>                                                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                 
+    ###                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                 
+    <div align="center">                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />                                                                                                                                     
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />                                                                                                                                              
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />                                                                                                                               
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />                                                                                                                                     
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />                                                                                                                                           
+      <img width="12" />                                                                                                                                                                                                                                                         
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />                                                                                                                                                    
+    </div> 
+    
 ###
 
 <div align="center">
@@ -66,15 +69,15 @@
 
   <div align="center">                                                                                                                                                                                                                                                         
       <a href="https://cawina-exe.github.io/vcard-personal-portfolio/" target="_blank">                                                                                                                                                                                          
-        <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />                                                                                       
+        <img src="https://img.shields.io/static/v1?message=View%20My%20Portfolio&logo=github&label=&color=FFD166&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />                                                                           
       </a>                                                                                                                                                                                                                                                                       
       <img width="12" />                                                                                                                                                                                                                                                         
       <a href="https://drive.google.com/file/d/1CHzcvAneexFLeczZB2f2BVm8B3N_eAmI/view?usp=sharing" target="_blank">                                                                                                                                                              
         <img src="https://img.shields.io/static/v1?message=Resume%20/%20CV&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv logo"  />                                                                                   
       </a>                                                                                                                                                                                                                                                                       
       <img width="12" />                                                                                                                                                                                                                                                         
-      <a href="https://www.linkedin.com/in/carolina-sousa-gd/" target="_blank">                                                                                                                                                                                              
+      <a href="https://www.linkedin.com/in/carolina-sousa-cawina/" target="_blank">                                                                                                                                                                                              
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />                                                                                       
       </a>                                                                                                                                                                                                                                                                       
     </div>                                                                                                                                                                                                                                                                       
-                
+
